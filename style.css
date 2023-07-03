@@ -1,0 +1,19 @@
+body{
+    background:linear-gradient(rgb(0, 234, 255),rgb(208, 247, 255))
+
+}
+
+.heading{
+    width:90%;
+    font-size: 20px;
+    margin: 0px;
+    box-shadow: 10px 10px 10px rgb(4, 70, 78);
+}
+
+canvas{
+    border-width: 6px;
+    border-radius: 1000px;
+    border-style:double;
+    border-color: rgb(0, 0, 0);
+    box-shadow: 10px 10px 10px rgb(55, 71, 55);
+}
